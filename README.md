@@ -2,6 +2,7 @@
 
 If you are having trouble displaying the code:
 
+Click on https://nbviewer.jupyter.org/github/halo91cs/SMS_Spam_Detection_Filter/blob/master/SpamFilterG.ipynb 
 
 
 # SMS_Spam_Detection_Filter
